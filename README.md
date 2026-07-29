@@ -1,2 +1,1 @@
-# Spotify-Data-Analysis
 This project analyzes my Spotify streaming history (2020–2025) using Power BI. It explores top songs, favorite artists, weekly listening patterns, and total hours streamed. The dashboard features a clean glassmorphism design with interactive visuals and artist images, showcasing skills in data cleaning, DAX, and storytelling with data.
